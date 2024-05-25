@@ -22,8 +22,7 @@ This Python avatar creator EgoMatic aims to develop a versatile application allo
 
 -**random**
 
-### 2) Dowload the images located on this folder: 
-
+### 2) Dowload the images located on this repository. 
 
 
 ### 3) Run the code and enjoy.
