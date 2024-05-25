@@ -22,6 +22,8 @@ This Python avatar creator EgoMatic aims to develop a versatile application allo
 
 -**random**
 
+-**PIL**
+
 ### 2) Download the images located on this repository and the python code (put all in the same folder). 
 
 
