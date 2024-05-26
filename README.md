@@ -14,10 +14,6 @@ This Python avatar creator EgoMatic aims to develop a versatile application allo
 
 -**tkinter** 
 
--**pandas**
-
--**numpy** 
-
 -**os** 
 
 -**random**
