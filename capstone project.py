@@ -1,6 +1,5 @@
 import cv2
 import tkinter as tk
-import numpy as np
 import os
 import random
 from tkinter import filedialog, colorchooser, simpledialog, messagebox, Label, Button, Canvas
@@ -20,7 +19,7 @@ class App(tk.Tk):
             frame = F(self) # Create the frame
             self.frames[F] = frame # Store the frame in the frames dictionary
             frame.grid(row=0, column=0, sticky="nsew") # Grid the frame to the window
-            frame.configure(bg='lightslateblue')  # Set the background color to light blue
+            frame.configure(bg='lightslateblue')  # Set the background color to light slate blue
 
         self.show_frame(HomePage)
 
